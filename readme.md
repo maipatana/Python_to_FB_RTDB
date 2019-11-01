@@ -3,6 +3,7 @@ Python
 npm
 
 pip install --upgrade firebase-admin
+
 npm install -g firebase-tools
 
 firebase login <- สำหรับ Login เข้า Firebase
